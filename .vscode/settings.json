@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/52ebf4a2-b4c5-4742-94ed-a1edc20e0f3c/resourceGroups/FrontRG/providers/Microsoft.Web/sites/bedmanagement",
+    "appService.deploySubpath": ""
+}
